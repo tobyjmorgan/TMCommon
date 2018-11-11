@@ -1,0 +1,22 @@
+{
+  "name": "TMCommon",
+  "version": "0.1.0",
+  "summary": "A short description of TMCommon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tobyjmorgan/TMCommon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tobyjmorgan": "tobyjmorgan@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/tobyjmorgan/TMCommon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TMCommon/Classes/**/*"
+}

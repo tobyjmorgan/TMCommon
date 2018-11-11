@@ -1,0 +1,6 @@
+framework module TMCommon {
+  umbrella header "TMCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}
